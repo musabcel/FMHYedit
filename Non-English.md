@@ -111,7 +111,7 @@
 
 # ► Chinese / 汉语方言
 
-* 🌐 **[heji](https://233heji.com/)**, **[BestXTools](https://discuss-cn.bestxtools.com/)** or **[bajins](https://www.bajins.com/)** - Chinese Sites / Tools Indexes
+* 🌐 **[heji](https://233heji.com/)** or [bajins](https://www.bajins.com/) - Chinese Sites / Tools Indexes
 * 🌐 **[Awesome GitHub Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)** - Programming Resources Index
 * [Anti-Ad](https://anti-ad.net/) - Adblock Filters
 * [chat2ai](https://www.chat2ai.cn/) - AI Index
@@ -317,7 +317,6 @@
 # ► French / Français
 
 * [P2PFR](https://forum.p2pfr.com/) - Piracy Discussion
-* [Emuline](https://www.emuline.org/) - ROM / Emulation Discussion
 * [SubSynchro](https://www.subsynchro.com/), [Sous-Titres](https://www.sous-titres.eu/) or [SubFactory](https://subfactory.fr/) - Subtitles
 * [Wikiwix](https://wikiwix.com/) - Wikipedia Search
 * [Tseret](https://tseret.com/) - Game Guides
@@ -530,7 +529,7 @@
 
 ## ▷ Downloading
 
-* ⭐ **[OlaMovies](https://olamovies.bar/)** - Movies / TV / Sub / Dub / 1080p / 4K / [Telegram](https://telegram.me/olamovies_official_v3)
+* ⭐ **[OlaMovies](https://olamovies.icu/)** - Movies / TV / Sub / Dub / 1080p / 4K / [Telegram](https://telegram.me/olamovies_official_v3)
 * ⭐ **[VegaMovies](https://vegamovies.ong/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/VegamoviesTo_Official)
 * ⭐ **[MultiMovies](https://multimovies.art/)** - Movies / TV / Anime / Sub / Dub / 1080p / [Telegram](https://telegram.me/multimoviesfun)
 * ⭐ **[Full4Movies](https://www.full4movies.wine/)** - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/+esNoIP2HG30yMjlk)
@@ -1657,7 +1656,7 @@
 
 * [Dizilla](https://dizilla.club) - Movies / TV 
 * [YabancıDizi](https://yabancidizi.pro) - Movies / TV
-* [HdfilmCehennemi](https://www.hdfilmcehennemi.life) - Movies / TV
+* [HdfilmCehennemi](https://www.hdfilmcehennemi.com) - Movies / TV
 * [FullHDFilmİzlesene](https://www.fullhdfilmizlesene.pw) - Movies / Cartoons
 * [JetFilmizle](https://jetfilmizle.film/) - Movies
 * [FilmIzle](https://filmizle2022.info/) - Movies
@@ -1896,6 +1895,7 @@
 * [channelmyanmar](https://channelmyanmar.org) - Burmese / Movies / TV / Cartoons / 1080p / 4K
 * [lupiteam](https://lupiteam.net/) - Corsican / Manga
 * [BalkanDownload](https://balkandownload.org/) - Croatian / Download / Video / Audio / Games / Books / Comics
+* [WarezHR](https://www.warezhr.org/) - Croatian / Download / Video / Audio / Games / Books / Comics 
 * [DR.DK](https://www.dr.dk/) - Danish / Movies / TV / Live
 * [Lesics](https://youtube.com/@LesicsDE) - Danish / Engineering Courses
 * [Deildu](https://deildu.net/) - Icelandic / Torrents
